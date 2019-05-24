@@ -1,2 +1,4 @@
 # Django-ToDo-App
-Allows user to add items, cross off and uncross items, and delete items from the the to-do list. 
+This web application allows users to add, delete, and edit items of their to-do list. 
+The application was designed with the intention of exploring Django and database functionality.
+
